@@ -1,0 +1,6 @@
+{
+    "recipe": [
+        {"id": 0, "title": "oeuf sans oeuf", "ingredients": "mousse, peinture jaune", "recipe": "verser la p  êinture sur la mousse"},
+        {"id": 1, "title": "omelete", "ingredients": "salade, oeuf, etc...", "recipe": "mettre la salade dans l'oeuf, l'oeuf dans etc..."}
+    ]
+}
